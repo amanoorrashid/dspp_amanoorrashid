@@ -4,6 +4,6 @@
 
 Welcome to my Github
 
-This is my first page below
+### This is my first image below
 
 ![omglogo](images/OMG-White-Logo.png)
